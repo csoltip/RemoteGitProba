@@ -6,7 +6,7 @@ public class LocalGitProba {
         int osszeg = osszead(3, 5);
     }
 
-    private static int osszead(int a, int b) {
+    private static int osszead(String a, String b) {
         return a + b;
     }
     
